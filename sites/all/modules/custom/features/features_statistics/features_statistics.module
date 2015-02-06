@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Features Statistics feature.
+ */
+
+include_once 'features_statistics.features.inc';

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Features Front Page Articles feature.
+ */
+
+include_once 'features_front_page_articles.features.inc';

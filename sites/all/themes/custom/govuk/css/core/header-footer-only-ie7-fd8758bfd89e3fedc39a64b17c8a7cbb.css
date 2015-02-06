@@ -1,0 +1,1051 @@
+@-ms-viewport {
+  width: device-width;
+}
+
+@-o-viewport {
+  width: device-width;
+}
+
+@-ms-viewport {
+  width: device-width;
+}
+
+@-o-viewport {
+  width: device-width;
+}
+
+@-ms-viewport {
+  width: device-width;
+}
+
+@-o-viewport {
+  width: device-width;
+}
+
+#footer .footer-categories, #global-header .header-wrapper .header-global .site-search, #global-header form#search .content, .report-a-problem-container, .report-a-problem-toggle-wrapper, .govuk-metadata {
+  zoom: 1;
+}
+
+  #footer .footer-categories:after, #global-header .header-wrapper .header-global .site-search:after, #global-header form#search .content:after, .report-a-problem-container:after, .report-a-problem-toggle-wrapper:after, .govuk-metadata:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"),local("Helvetica Neue"),local("Arial"),local("Helvetica");
+}
+
+@-ms-viewport {
+  width: device-width;
+}
+
+@-o-viewport {
+  width: device-width;
+}
+
+@-ms-viewport {
+  width: device-width;
+}
+
+@-o-viewport {
+  width: device-width;
+}
+
+#footer .footer-categories, #global-header .header-wrapper .header-global .site-search, #global-header form#search .content, .report-a-problem-container, .report-a-problem-toggle-wrapper, .govuk-metadata {
+  zoom: 1;
+}
+
+  #footer .footer-categories:after, #global-header .header-wrapper .header-global .site-search:after, #global-header form#search .content:after, .report-a-problem-container:after, .report-a-problem-toggle-wrapper:after, .govuk-metadata:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+@-ms-viewport {
+  width: device-width;
+}
+
+@-o-viewport {
+  width: device-width;
+}
+
+.alpha-label {
+  clear: both;
+  margin: 0;
+  font-family: "nta",Arial,sans-serif;
+  font-size: 16px;
+  line-height: 1.25;
+  font-weight: 400;
+  text-transform: none;
+  padding-top: 8px;
+  padding-bottom: 7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+@media (max-width: 640px) {
+  .alpha-label {
+    font-size: 14px;
+    line-height: 1.14286;
+  }
+}
+
+.alpha-label span.alpha {
+  display: inline-block;
+  background: #d53880;
+  color: #fff;
+  font-family: "nta",Arial,sans-serif;
+  font-size: 16px;
+  line-height: 1.25;
+  font-weight: 700;
+  text-transform: none;
+  line-height: 1;
+  text-transform: uppercase;
+  padding: 5px 5px 2px 6px;
+  margin-right: 10px;
+}
+
+@media (max-width: 640px) {
+  .alpha-label span.alpha {
+    font-size: 14px;
+    line-height: 1.14286;
+  }
+}
+
+.beta-label {
+  clear: both;
+  margin: 0;
+  font-family: "nta",Arial,sans-serif;
+  font-size: 16px;
+  line-height: 1.25;
+  font-weight: 400;
+  text-transform: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #bfc1c3;
+}
+
+@media (max-width: 640px) {
+  .beta-label {
+    font-size: 14px;
+    line-height: 1.14286;
+  }
+}
+
+.beta-label span.beta {
+  display: inline-block;
+  background: #f47738;
+  color: #fff;
+  font-family: "nta",Arial,sans-serif;
+  font-size: 16px;
+  line-height: 1.25;
+  font-weight: 700;
+  text-transform: none;
+  line-height: 1;
+  text-transform: uppercase;
+  padding: 5px 5px 2px 6px;
+  margin-right: 10px;
+}
+
+@media (max-width: 640px) {
+  .beta-label span.beta {
+    font-size: 14px;
+    line-height: 1.14286;
+  }
+}
+
+#footer .footer-categories {
+  padding: 0 15px 30px;
+}
+
+  #footer .footer-categories .footer-explore, #footer .footer-categories .footer-inside-government {
+    float: left;
+    width: 66.66%;
+    padding-bottom: 60px;
+  }
+
+    #footer .footer-categories .footer-explore h2, #footer .footer-categories .footer-inside-government h2 {
+      margin: 0 15px;
+      padding: 0 0 20px;
+      border-bottom: 1px solid #bfc1c3;
+    }
+
+  #footer .footer-categories hr {
+    clear: both;
+    margin: 0 15px 30px;
+    border: 1px solid #bfc1c3;
+    border-width: 1px 0 0 0;
+    margin-bottom: 0;
+  }
+
+  #footer .footer-categories ul {
+    font-family: "nta",Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.25;
+    font-weight: 400;
+    text-transform: none;
+    list-style: none;
+    padding: 10px 0 0;
+    margin: 0 15px 30px;
+    padding: 20px 0 0;
+    margin: 0 15px;
+    padding: 0;
+  }
+
+@media (max-width: 640px) {
+  #footer .footer-categories ul {
+    font-size: 14px;
+    line-height: 1.14286;
+  }
+}
+
+#footer .footer-categories ul li {
+  display: block;
+  margin-bottom: 5px;
+  float: left;
+  margin: 15px 0 0 0;
+  width: 50%;
+}
+
+#footer .footer-categories .footer-inside-government {
+  float: left;
+  width: 33.33%;
+}
+
+  #footer .footer-categories .footer-inside-government ul li {
+    width: 100%;
+  }
+
+@-ms-viewport {
+  width: device-width;
+}
+
+@-o-viewport {
+  width: device-width;
+}
+
+#footer .footer-categories, #global-header .header-wrapper .header-global .site-search, #global-header form#search .content, .report-a-problem-container, .report-a-problem-toggle-wrapper, .govuk-metadata {
+  zoom: 1;
+}
+
+  #footer .footer-categories:after, #global-header .header-wrapper .header-global .site-search:after, #global-header form#search .content:after, .report-a-problem-container:after, .report-a-problem-toggle-wrapper:after, .govuk-metadata:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+#global-header .header-wrapper .header-global .site-search {
+  width: 49%;
+  float: right;
+  width: 33.33%;
+}
+
+@media screen and (max-width: 379px) {
+  #global-header .header-wrapper .header-global .site-search {
+    width: auto;
+    float: none;
+  }
+}
+
+#global-header .header-wrapper .header-global .site-search .content {
+  margin: 0 15px;
+}
+
+#global-header.with-proposition #search {
+  margin-top: 4px;
+}
+
+#global-header .search-toggle {
+  display: none;
+}
+
+@media screen and (max-width: 379px) {
+  #global-header .search-toggle {
+    display: block;
+    float: right;
+    height: 30px;
+    width: 36px;
+    padding: 0;
+    margin: -32px 15px;
+    overflow: hidden;
+    text-indent: -5000px;
+    background-color: #005ea5;
+    background-image: url(https://assets.digital.cabinet-office.gov.uk/static/search-button-ae8b4a52fcf80102a4ebccdde74bd46c.png);
+    background-repeat: no-repeat;
+    background-position: 0 50%;
+  }
+
+  body.search #global-header .search-toggle {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 379px) and (-webkit-min-device-pixel-ratio: 2), only screen and (max-width: 379px) and (min--moz-device-pixel-ratio: 2), only screen and (max-width: 379px) and (-o-min-device-pixel-ratio: 20 / 10), only screen and (max-width: 379px) and (min-device-pixel-ratio: 2), only screen and (max-width: 379px) and (min-resolution: 192dpi), only screen and (max-width: 379px) and (min-resolution: 2dppx) {
+  #global-header .search-toggle {
+    background-size: 52.5px 35px;
+    background-position: 100% 50%;
+  }
+}
+
+#global-header .search-toggle:hover {
+  background-color: #004f8b;
+}
+
+#global-header .search-toggle.js-hidden {
+  display: none;
+}
+
+#global-header form#search .content {
+  position: relative;
+  background: #fff;
+}
+
+#global-header form#search label {
+  float: left;
+  height: 35px;
+  line-height: 35px;
+  text-indent: 15px;
+  overflow: hidden;
+  display: block;
+  margin-right: 10px;
+}
+
+.js-enabled #global-header form#search label {
+  float: none;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  z-index: 1;
+  width: 100%;
+  margin-right: 0;
+}
+
+#global-header form#search input {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+  width: 50%;
+  min-width: 0;
+  display: block;
+  margin: 0;
+  border: 0;
+  height: 35px;
+  padding: 6px 0;
+  height: 23px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+  #global-header form#search input#site-search-text {
+    font-family: "nta",Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.4375;
+    font-weight: 400;
+    text-transform: none;
+    position: relative;
+    padding: 6px;
+    z-index: 3;
+    background: transparent;
+    padding-left: 0;
+  }
+
+@media (max-width: 640px) {
+  #global-header form#search input#site-search-text {
+    font-size: 14px;
+    line-height: 1.76923;
+  }
+}
+
+#global-header form#search input#site-search-text.focus, #global-header form#search input#site-search-text:focus {
+  background: #fff;
+}
+
+.js-enabled #global-header form#search input#site-search-text {
+  width: 86%;
+  width: -webkit-calc(100% - 37px);
+  width: calc(100% - 37px);
+}
+
+#global-header form#search input.submit {
+  position: absolute;
+  z-index: 4;
+  right: 0;
+  top: 0;
+  width: 35px;
+  height: 35px;
+  border: 1px solid #005ea5;
+  border-width: 0 0 0 1px;
+  border-width: 1px;
+  border-left-color: #222;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  overflow: hidden;
+  text-indent: -5000px;
+  color: #fff;
+  background-color: #005ea5;
+  background-image: url(https://assets.digital.cabinet-office.gov.uk/static/search-button-ae8b4a52fcf80102a4ebccdde74bd46c.png);
+  background-repeat: no-repeat;
+  background-position: 0 50%;
+  background-image: none;
+  width: auto;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 20 / 10), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  #global-header form#search input.submit {
+    background-size: 52.5px 35px;
+    background-position: 100% 50%;
+  }
+}
+
+#global-header form#search input.submit:hover {
+  background-color: #004f8b;
+}
+
+@media screen and (max-width: 379px) {
+  #global-header form#search {
+    display: none;
+    width: 100%;
+  }
+
+    #global-header form#search #site-search-text {
+      width: 80%;
+    }
+}
+
+#global-header form#search.js-visible {
+  display: block;
+}
+
+#global-browser-prompt {
+  display: none;
+}
+
+.beta-notice, #global-browser-prompt {
+  padding: 0.5em 2em;
+}
+
+  .beta-notice p, #global-browser-prompt p {
+    font-family: "nta",Arial,sans-serif;
+    font-size: 19px;
+    line-height: 1.31579;
+    font-weight: 400;
+    text-transform: none;
+    margin: 0 auto;
+    max-width: 960px;
+  }
+
+@media (max-width: 640px) {
+  .beta-notice p, #global-browser-prompt p {
+    font-size: 16px;
+    line-height: 1.25;
+  }
+}
+
+#global-browser-prompt {
+  background-color: #d5e8f3;
+}
+
+  #global-browser-prompt p {
+    position: relative;
+    padding-right: 20px;
+    max-width: 940px;
+  }
+
+  #global-browser-prompt .dismiss {
+    background-image: url(https://assets.digital.cabinet-office.gov.uk/static/close-d05b62d4287151f959ffdcf2387898f7.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center right;
+    text-decoration: none;
+    height: 22px;
+    width: 10px;
+    text-indent: -9999px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+  }
+
+.beta-notice {
+  background-color: #f47738;
+  color: #fff;
+}
+
+#global-breadcrumb {
+  background-color: #fff;
+  max-width: 1020px;
+  margin: 0 auto;
+  z-index: 50;
+}
+
+  #global-breadcrumb ol {
+    max-width: 960px;
+    margin: 0 30px;
+    padding: 0.75em 0;
+    padding: 0.75em 16px 0;
+    width: 900px;
+  }
+
+    #global-breadcrumb ol li {
+      font-family: "nta",Arial,sans-serif;
+      font-size: 16px;
+      line-height: 1.25;
+      font-weight: 400;
+      text-transform: none;
+      background-image: url(https://assets.digital.cabinet-office.gov.uk/static/separator-73822610794bc3a64871f144d93d6526.png);
+      background-position: 100% 50%;
+      background-repeat: no-repeat;
+      float: left;
+      list-style: none;
+      margin-left: 0;
+      margin-right: 0.5em;
+      margin-bottom: 0.4em;
+      padding-right: 1em;
+    }
+
+@media (max-width: 640px) {
+  #global-breadcrumb ol li {
+    font-size: 14px;
+    line-height: 1.14286;
+  }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 20 / 10), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  #global-breadcrumb ol li {
+    background-image: url(https://assets.digital.cabinet-office.gov.uk/static/separator-2x-2ff66846b80b66edba8ce56d29daa935.png);
+    background-size: 6px 11px;
+  }
+}
+
+#global-breadcrumb ol li a {
+  color: #0b0c0c;
+}
+
+#global-breadcrumb ol li strong {
+  font-weight: normal;
+}
+
+#global-breadcrumb ol li:last-child {
+  background-image: none;
+  margin-right: 0;
+}
+
+#user-satisfaction-survey {
+  display: none;
+  background-color: #2B358B;
+  padding: 0.5em 0;
+  color: #fff;
+}
+
+  #user-satisfaction-survey.visible {
+    display: block;
+  }
+
+  #user-satisfaction-survey .wrapper {
+    margin: 0 auto;
+    max-width: 990px;
+    clear: both;
+    padding: 0 15px;
+  }
+
+    #user-satisfaction-survey .wrapper h1 {
+      font-family: "nta",Arial,sans-serif;
+      font-size: 19px;
+      line-height: 1.31579;
+      font-weight: 700;
+      text-transform: none;
+      margin-left: 20px;
+    }
+
+@media (max-width: 640px) {
+  #user-satisfaction-survey .wrapper h1 {
+    font-size: 16px;
+    line-height: 1.25;
+  }
+}
+
+#user-satisfaction-survey .wrapper p {
+  font-family: "nta",Arial,sans-serif;
+  font-size: 14px;
+  line-height: 1.42857;
+  font-weight: 400;
+  text-transform: none;
+  margin: 0 0 0 20px;
+}
+
+@media (max-width: 640px) {
+  #user-satisfaction-survey .wrapper p {
+    font-size: 12px;
+    line-height: 1.25;
+  }
+}
+
+#user-satisfaction-survey .wrapper p a:link, #user-satisfaction-survey .wrapper p a:active, #user-satisfaction-survey .wrapper p a:visited {
+  color: #fff;
+}
+
+#user-satisfaction-survey .wrapper p a:hover {
+  color: #fff;
+}
+
+#user-satisfaction-survey .wrapper p a#take-survey {
+  font-family: "nta",Arial,sans-serif;
+  font-size: 19px;
+  line-height: 1.31579;
+  font-weight: 400;
+  text-transform: none;
+  padding-right: 5px;
+}
+
+@media (max-width: 640px) {
+  #user-satisfaction-survey .wrapper p a#take-survey {
+    font-size: 16px;
+    line-height: 1.25;
+  }
+}
+
+#user-satisfaction-survey .wrapper p.right {
+  float: right;
+  margin: -20px 20px 0 0;
+  margin-top: -25px;
+}
+
+.js-enabled .report-a-problem-container {
+  display: none;
+}
+
+.report-a-problem-container {
+  clear: both;
+  margin: 0 auto;
+  width: auto;
+  max-width: 1020px;
+  width: 1020px;
+  margin-bottom: 60px;
+}
+
+  .report-a-problem-container .report-a-problem-inner {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+    .report-a-problem-container .report-a-problem-inner .report-a-problem-content {
+      max-width: 35em;
+    }
+
+  .report-a-problem-container h2 {
+    font-family: "nta",Arial,sans-serif;
+    font-size: 24px;
+    line-height: 1.25;
+    font-weight: 400;
+    text-transform: none;
+    font-weight: 600;
+    margin: 1em 0;
+  }
+
+@media (max-width: 640px) {
+  .report-a-problem-container h2 {
+    font-size: 18px;
+    line-height: 1.2;
+  }
+}
+
+.report-a-problem-container .button-wrapper {
+  padding-top: 0.5em;
+}
+
+  .report-a-problem-container .button-wrapper .button {
+    background-color: #00823b;
+    position: relative;
+    display: -moz-inline-stack;
+    display: inline-block;
+    zoom: 1;
+    display: inline;
+    padding: 0.3em 0.6em 0.2em 0.6em;
+    border: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-appearance: none;
+    -webkit-box-shadow: 0 2px 0 #003518;
+    -moz-box-shadow: 0 2px 0 #003518;
+    box-shadow: 0 2px 0 #003518;
+    border-bottom: 2px solid #003518;
+    font-size: 1em;
+    line-height: 1.25;
+    text-decoration: none;
+    -webkit-font-smoothing: antialiased;
+    cursor: pointer;
+    color: #fff;
+    font-family: "nta",Arial,sans-serif;
+    font-size: 19px;
+    line-height: 1.31579;
+    font-weight: 400;
+    text-transform: none;
+  }
+
+    .report-a-problem-container .button-wrapper .button:visited {
+      background-color: #00823b;
+    }
+
+    .report-a-problem-container .button-wrapper .button:hover, .report-a-problem-container .button-wrapper .button:focus {
+      background-color: #00692f;
+    }
+
+    .report-a-problem-container .button-wrapper .button:active {
+      top: 2px;
+      -webkit-box-shadow: 0 0 0 #00823b;
+      -moz-box-shadow: 0 0 0 #00823b;
+      box-shadow: 0 0 0 #00823b;
+    }
+
+    .report-a-problem-container .button-wrapper .button.disabled, .report-a-problem-container .button-wrapper .button[disabled="disabled"], .report-a-problem-container .button-wrapper .button[disabled] {
+      zoom: 1;
+      filter: alpha(opacity=50);
+      opacity: 0.5;
+    }
+
+      .report-a-problem-container .button-wrapper .button.disabled:hover, .report-a-problem-container .button-wrapper .button[disabled="disabled"]:hover, .report-a-problem-container .button-wrapper .button[disabled]:hover {
+        cursor: default;
+        background-color: #00823b;
+      }
+
+      .report-a-problem-container .button-wrapper .button.disabled:active, .report-a-problem-container .button-wrapper .button[disabled="disabled"]:active, .report-a-problem-container .button-wrapper .button[disabled]:active {
+        top: 0;
+        -webkit-box-shadow: 0 2px 0 #003518;
+        -moz-box-shadow: 0 2px 0 #003518;
+        box-shadow: 0 2px 0 #003518;
+        border-bottom: 2px solid #003518;
+      }
+
+    .report-a-problem-container .button-wrapper .button:link, .report-a-problem-container .button-wrapper .button:hover, .report-a-problem-container .button-wrapper .button:focus, .report-a-problem-container .button-wrapper .button:visited {
+      color: #fff;
+    }
+
+    .report-a-problem-container .button-wrapper .button:before {
+      content: "";
+      height: 110%;
+      width: 100%;
+      display: block;
+      background: transparent;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    .report-a-problem-container .button-wrapper .button:active:before {
+      top: -10%;
+      height: 120%;
+    }
+
+    .report-a-problem-container .button-wrapper .button[rel="external"]:after {
+      display: none;
+      content: none;
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    .report-a-problem-container .button-wrapper .button[type="submit"], .report-a-problem-container .button-wrapper .button[type="reset"], .report-a-problem-container .button-wrapper .button[type="button"] {
+      filter: chroma(color=#000);
+    }
+
+    .report-a-problem-container .button-wrapper .button[type=submit].button {
+      filter: none;
+    }
+
+@media (max-width: 640px) {
+  .report-a-problem-container .button-wrapper .button {
+    font-size: 16px;
+    line-height: 1.25;
+  }
+}
+
+.report-a-problem-container p {
+  font-family: "nta",Arial,sans-serif;
+  font-size: 19px;
+  line-height: 1.31579;
+  font-weight: 400;
+  text-transform: none;
+  padding-bottom: 1em;
+}
+
+@media (max-width: 640px) {
+  .report-a-problem-container p {
+    font-size: 16px;
+    line-height: 1.25;
+  }
+}
+
+.report-a-problem-container label {
+  font-family: "nta",Arial,sans-serif;
+  font-size: 19px;
+  line-height: 1.31579;
+  font-weight: 400;
+  text-transform: none;
+  padding: 0;
+  margin: 0 0 0.22em 0;
+  display: block;
+  font-weight: bold;
+}
+
+@media (max-width: 640px) {
+  .report-a-problem-container label {
+    font-size: 16px;
+    line-height: 1.25;
+  }
+}
+
+.report-a-problem-container input[type="text"] {
+  display: block;
+  font-family: "nta",Arial,sans-serif;
+  font-size: 19px;
+  line-height: 1.31579;
+  font-weight: 400;
+  text-transform: none;
+  margin: 0 0 1em 0;
+  background-color: #f8f8f8;
+  border: 1px inset #bfc1c3;
+  padding: 0.3em 0 0.1em 0.4em;
+  width: 95%;
+  width: 550px;
+}
+
+@media (max-width: 640px) {
+  .report-a-problem-container input[type="text"] {
+    font-size: 16px;
+    line-height: 1.25;
+  }
+}
+
+.report-a-problem-toggle {
+  font-family: "nta",Arial,sans-serif;
+  font-size: 16px;
+  line-height: 1.25;
+  font-weight: 400;
+  text-transform: none;
+  zoom: 1;
+}
+
+@media (max-width: 640px) {
+  .report-a-problem-toggle {
+    font-size: 14px;
+    line-height: 1.14286;
+  }
+}
+
+.report-a-problem-toggle a {
+  color: #6f777b;
+}
+
+.report-a-problem-toggle-wrapper {
+  margin: 0 auto;
+  width: auto;
+  max-width: 1020px;
+  width: 1020px;
+  margin-bottom: 30px;
+  clear: both;
+}
+
+  .report-a-problem-toggle-wrapper .report-a-problem-toggle {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"),local("Helvetica Neue"),local("Arial"),local("Helvetica");
+}
+
+@-ms-viewport {
+  width: device-width;
+}
+
+@-o-viewport {
+  width: device-width;
+}
+
+@-ms-viewport {
+  width: device-width;
+}
+
+@-o-viewport {
+  width: device-width;
+}
+
+#footer .footer-categories, #global-header .header-wrapper .header-global .site-search, #global-header form#search .content, .report-a-problem-container, .report-a-problem-toggle-wrapper, .govuk-metadata {
+  zoom: 1;
+}
+
+  #footer .footer-categories:after, #global-header .header-wrapper .header-global .site-search:after, #global-header form#search .content:after, .report-a-problem-container:after, .report-a-problem-toggle-wrapper:after, .govuk-metadata:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+@-ms-viewport {
+  width: device-width;
+}
+
+@-o-viewport {
+  width: device-width;
+}
+
+@-ms-viewport {
+  width: device-width;
+}
+
+@-o-viewport {
+  width: device-width;
+}
+
+#footer .footer-categories, #global-header .header-wrapper .header-global .site-search, #global-header form#search .content, .report-a-problem-container, .report-a-problem-toggle-wrapper, .govuk-metadata {
+  zoom: 1;
+}
+
+  #footer .footer-categories:after, #global-header .header-wrapper .header-global .site-search:after, #global-header form#search .content:after, .report-a-problem-container:after, .report-a-problem-toggle-wrapper:after, .govuk-metadata:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+.govuk-beta-label {
+  padding: 10px 0 8px 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #bfc1c3;
+}
+
+  .govuk-beta-label p {
+    margin: 0;
+    color: #000;
+    font-family: "nta",Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.25;
+    font-weight: 400;
+    text-transform: none;
+  }
+
+@media (max-width: 640px) {
+  .govuk-beta-label p {
+    font-size: 14px;
+    line-height: 1.14286;
+  }
+}
+
+.govuk-beta-label .phase-tag {
+  display: -moz-inline-stack;
+  display: inline-block;
+  zoom: 1;
+  display: inline;
+  vertical-align: top;
+  vertical-align: baseline;
+  margin: 0 8px 0 0;
+  padding: 2px 5px 0;
+  font-family: "nta",Arial,sans-serif;
+  font-size: 16px;
+  line-height: 1.25;
+  font-weight: 700;
+  text-transform: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #f47738;
+}
+
+@media (max-width: 640px) {
+  .govuk-beta-label .phase-tag {
+    font-size: 14px;
+    line-height: 1.14286;
+  }
+}
+
+.govuk-beta-label span {
+  display: -moz-inline-stack;
+  display: inline-block;
+  zoom: 1;
+  display: inline;
+  width: 75%;
+  vertical-align: top;
+  width: auto;
+  vertical-align: baseline;
+}
+
+.govuk-metadata {
+  font-family: "nta",Arial,sans-serif;
+  font-size: 14px;
+  line-height: 1.42857;
+  font-weight: 400;
+  text-transform: none;
+}
+
+@media (max-width: 640px) {
+  .govuk-metadata {
+    font-size: 12px;
+    line-height: 1.25;
+  }
+}
+
+.govuk-metadata dt {
+  float: left;
+  clear: left;
+  width: auto;
+  min-width: 120px;
+  padding-right: 10px;
+}
+
+.govuk-metadata dd {
+  float: left;
+  width: 55%;
+  width: 70%;
+}
+
+label.selectable {
+  display: block;
+  float: none;
+  clear: left;
+  position: relative;
+  background: #dee0e2;
+  border: 1px solid #dee0e2;
+  padding: 18px 30px 15px 45px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  float: left;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+  label.selectable:hover {
+    border-color: #0b0c0c;
+  }
+
+  label.selectable input {
+    position: absolute;
+    top: 18px;
+    left: 15px;
+    cursor: pointer;
+  }
+
+.inline label.selectable {
+  clear: none;
+  margin-right: 15px;
+}
+
+.js-enabled label.selectable input:focus {
+  outline: none;
+}
+
+.js-enabled label.selectable.selected {
+  background: #fff;
+  border-color: #0b0c0c;
+}
+
+.js-enabled label.selectable.focused {
+  outline: 3px solid #ffbf47;
+}

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Features Policies feature.
+ */
+
+include_once 'features_policies.features.inc';

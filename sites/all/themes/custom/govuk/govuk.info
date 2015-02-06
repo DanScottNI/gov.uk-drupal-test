@@ -1,0 +1,39 @@
+name = govuk
+description = A theme based on the GOV.UK website CSS.
+core = 7.x
+
+regions[header]         = Header
+regions[main-menu-bar]         = Main Menu Bar
+regions[heading-block]         = Heading Block
+regions[navigation]     = Navigation bar
+regions[content]        = Content
+regions[content-2]        = Content 2
+regions[documents]        = Documents 
+regions[people]        = People
+regions[content-3]        = Content 3
+regions[footer-1]         = Footer
+regions[footer-2]         = Footer 2
+
+
+stylesheets[screen][] = css/core/govuk-template-2954d8cb00a2698f94a497816945f0a9.css
+stylesheets-conditional[IE 6][screen][] = css/core/govuk-template-ie6-3b142f30175850cc2ed7f3dea6ee5b5a.css
+stylesheets-conditional[IE 7][screen][] = css/core/govuk-template-ie7-b946cd9afd6e55b82b839554a2bb7295.css
+stylesheets-conditional[IE 8][screen][] = css/core/govuk-template-ie8-67316322f332c1b92c457ccafff3c8d9.css
+stylesheets[print][] = css/core/govuk-template-print-95606431bbfe23b0e4ee9e5ed3346c47.css
+stylesheets[all][] = css/core/fonts-83e596ae63d072e22b7f34d2b5482bde.css
+stylesheets[screen][] = css/core/header-footer-only-89c1904913d04e69b1482eac9584af2f.css
+stylesheets-conditional[IE 6][screen][] = css/core/header-footer-only-ie6-5e9273733d4255af4597bee3c5b810a9.css
+stylesheets-conditional[IE 7][screen][] = css/core/header-footer-only-ie7-fd8758bfd89e3fedc39a64b17c8a7cbb.css
+stylesheets-conditional[IE 8][screen][] = css/core/header-footer-only-ie8-1bd9fcce53316f61cbd4ef3ba4764434.css
+stylesheets[print][] = css/core/print-cf35921ba3f23619c1fe8659ebb4a3a3.css
+stylesheets[screen][] = css/core/base-09ee62492a3597cd21964ab06deb7f31.css
+stylesheets[print][] = css/core/print-48357c1b450ddcf4d47b3f66caad2748.css
+stylesheets-conditional[IE 6][screen][] = css/core/base-ie6-481d1c95cfc7d78cc774f2a443196668.css
+stylesheets-conditional[IE 7][screen][] = css/core/base-ie7-dd3719d932c30c0fbd2aa935a8e70c1e.css
+stylesheets-conditional[IE 8][screen][] = css/core/base-ie8-408ccc40efe50af7f1389278861ffebb.css
+stylesheets-conditional[IE 9][screen][] = css/core/base-ie9-88f20c8997484d6928a4267f102a0ab5.css
+
+scripts[] = js/libs/html5shiv.js
+scripts[] = js/govuk/govuk-template-1d29c0379552e7f7ab67500dea47df2d.js
+scripts[] = js/libs/jquery/jquery-1.7.2-2ce4706f8f7193defaa9e7df2b641e9a.js
+scripts[] = js/govuk/header-footer-only-0442ab5754dced3fc2d3b17c010444e4.js
